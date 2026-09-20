@@ -15,14 +15,14 @@ Hi there 👋 I'm DARSHAN SINGH 👋
 * **Databases:** MySQL | MongoDB
 * **Tools & DevOps:** Docker | Linux | Git | GitHub | Cursor
 
- 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 * Full-Stack Mastery:
  Deep-diving into the MERN stack and advanced full-stack architectural patterns.
 * Engineering Excellence:
  Exploring internal mechanics, performance optimization, and best practices to master backend systems.
 
-🚀 What I'm Up To
+# 🚀 What I'm Up To
 
 * 🔨 Building: Consistently working on full-stack and microservice projects to tackle real-world problems.
 * 🤝 Contributing: Looking to contribute to open-source backend and tooling ecosystems.
