@@ -1,11 +1,17 @@
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)<br/>
+# 🧑‍💻 ABOUT ME:
 
 Hi there 👋 I'm DARSHAN SINGH 👋
  A dedicated **Backend & Full-Stack (MERN) Developer** 
  passionate about building scalable microservices, high-performance APIs, and full-stack web applications. 
  Currently focused on building impactful projects and actively contributing to open-source software.
+ 
+# 💻 Tech Stack:
+
+* **Backend:** Node.js | NestJS | TypeScript | REST APIs | Microservices | NATS
+* **Frontend:** Next.js | React.js
+* **Databases:** MySQL | MongoDB
+* **Tools & DevOps:** Docker | Linux | Git | GitHub | Cursor
 
  🌱 Currently Exploring
 
@@ -20,16 +26,25 @@ Hi there 👋 I'm DARSHAN SINGH 👋
 * 🤝 Contributing: Looking to contribute to open-source backend and tooling ecosystems.
 * ⚡ Fun Fact: I'm always curious about how things work under the hood—and always hungry to learn something new!
 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)<br/>
+
   
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thakur-darshan-singh&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-stats.shion.dev/api?username=thakur-darshan-singh&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=thakur-darshan-singh&theme=neon&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thakur-darshan-singh&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakur_darshan.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurdarshansingh9041@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakur_darshan.s)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-singh-3a66b5233/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bvnt0%2BFeUTVGgq52YheGc5w%3D%3D) 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurdarshansingh9041@gmail.com) 
 
 
 ### ✍️ Random Dev Quote
